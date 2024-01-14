@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS for Frontend and NodeJS for backend**
 
-- 👨‍💻 See my Portfolio at (https://rb.gy/dc8u08)
+- 👨‍💻 See my Portfolio at https://rb.gy/dc8u08
 
 - 📫 How to reach me **hridaysehgal@gmail.com**
 
