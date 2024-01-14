@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hridaysehgal@gmail.com**
 
-- 📄 See my Resume at [https://drive.google.com/file/d/1bQyGY2OPR029dS8dEWuZ8cxMqOUzuvtX/view?usp=sharing](https://drive.google.com/file/d/1bQyGY2OPR029dS8dEWuZ8cxMqOUzuvtX/view?usp=sharing)
+- 📄 See my Resume at https://rb.gy/vwqwgg
 
 - ⚡ Fun fact **I am a Beatboxer :)**
 
