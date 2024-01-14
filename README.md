@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hriday Sehgal</h1>
 <h3 align="center">A passionate MERN Stack Web developer from India.</h3>
 
-- 🔭 I’m currently working on [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
+- 🔭 I’m currently working on building MERN projects
+- Check my latest project at [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
 
 - 🌱 I’m currently learning **ReactJS for Frontend and NodeJS for backend**
 
