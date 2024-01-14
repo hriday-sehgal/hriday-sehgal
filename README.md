@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS for Frontend and NodeJS for backend**
 
-- 👨‍💻 All of my projects are available at [https://hriday-sehgal.github.io/Portfolio-ReactJS-Task6/](https://hriday-sehgal.github.io/Portfolio-ReactJS-Task6/)
+- 👨‍💻 See my Portfolio at [https://hriday-sehgal.github.io/Portfolio-ReactJS-Task6/](https://hriday-sehgal.github.io/Portfolio-ReactJS-Task6/)
 
 - 📫 How to reach me **hridaysehgal@gmail.com**
 
