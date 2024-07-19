@@ -8,9 +8,9 @@
 
 - 👨‍💻 See my Portfolio Website at https://rb.gy/dc8u08
 
-- 📫 How to reach me **hridaysehgal@gmail.com**
+- 📫 How to reach me **hriday.career@gmail.com**
 
-- 📄 See my Resume at https://shorturl.at/aeFMN
+- 📄 See my Resume at https://shorturl.at/DqH95
 
 - ⚡ Fun fact **I am a Beatboxer :)**
 
