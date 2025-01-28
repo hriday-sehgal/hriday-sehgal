@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hriday.career@gmail.com**
 
-- 📄 See my Resume at https://shorturl.at/oSbWB)
+- 📄 See my Resume at https://shorturl.at/oSbWB
 
 - ⚡ Fun fact **I am a Beatboxer :)**
 
