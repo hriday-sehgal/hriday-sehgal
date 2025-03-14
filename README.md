@@ -9,7 +9,7 @@
 
 - 👨‍💻 See my Portfolio Website at [hridaysehgal.vercel.app](https://hridaysehgal.vercel.app/)
 
-- 📫 How to reach me **hriday.career@gmail.com**
+- 📫 Reach me at **hriday.career@gmail.com**
 
 - 📄 See my Resume at https://shorturl.at/oSbWB
 
