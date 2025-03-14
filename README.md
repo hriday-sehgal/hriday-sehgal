@@ -2,7 +2,8 @@
 <h3 align="center">A passionate MERN Stack Web developer from India.</h3>
 
 - 🔭 I’m currently working on building MERN projects
-- Check my latest project at [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
+- Check out my blog website at [Decode with Hriday](https://decodewithhriday.vercel.app/)
+- Check my bidding project at [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
 
 - 🌱 I’m currently learning **React.js and Next.js for Frontend and Node.js for backend**
 
