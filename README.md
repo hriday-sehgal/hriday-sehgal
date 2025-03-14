@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building MERN projects
 - Check my latest project at [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
 
-- 🌱 I’m currently learning **ReactJS for Frontend and NodeJS for backend**
+- 🌱 I’m currently learning **React.js and Next.js for Frontend and Node.js for backend**
 
 - 👨‍💻 See my Portfolio Website at [hridaysehgal.vercel.app](https://hridaysehgal.vercel.app/)
 
