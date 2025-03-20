@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hriday Sehgal</h1>
+<h1 align="center">Hi, I'm Hriday Sehgal</h1>
 <h3 align="center">A passionate MERN Stack Web developer from India.</h3>
 
 - 🔭 I’m currently working on building NextJS projects
