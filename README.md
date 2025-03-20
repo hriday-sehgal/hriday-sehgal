@@ -4,10 +4,9 @@
 - 🔭 I’m currently working on building NextJS projects
 - Check out my blog website at [Decode with Hriday](https://decodewithhriday.vercel.app/)
 - Check my bidding project at [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
+- 👨‍💻 See my Portfolio Website at [hridaysehgal.vercel.app](https://hridaysehgal.vercel.app/)
 
 - 🌱 I’m currently learning **React.js and Next.js for Frontend and Node.js for backend**
-
-- 👨‍💻 See my Portfolio Website at [hridaysehgal.vercel.app](https://hridaysehgal.vercel.app/)
 
 - 📫 Reach me at **hriday.career@gmail.com**
 
