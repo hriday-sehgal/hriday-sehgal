@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Hriday Sehgal</h1>
 <h3 align="center">A passionate MERN Stack Web developer from India.</h3>
 
-- 🔭 I’m currently working on building NextJS projects
+- I’m currently working on building NextJS and ReactJS projects
 - Check out my blog website at [Decode with Hriday](https://decodewithhriday.vercel.app/)
 - Check my bidding project at [BidBot Online-Auction-System](https://bidbotauctionsystem.onrender.com/)
-- 👨‍💻 See my Portfolio Website at [hridaysehgal.vercel.app](https://hridaysehgal.vercel.app/)
+- See my Portfolio Website at [https://hridaysehgal.vercel.app/](https://hridaysehgal.vercel.app/)
 
-- 🌱 I’m currently learning **React.js and Next.js for Frontend and Node.js for backend**
+- I’m currently learning **React.js and Next.js for Frontend and Node.js for backend**
 
-- 📫 Reach me at **hriday.career@gmail.com**
+- Reach me at **hriday.career@gmail.com**
 
-- 📄 See my Resume at [Resume](https://shorturl.at/Vncvr)
+- See my Resume at [Resume](https://drive.google.com/file/d/1lExlkrHWi6G2_emKSkZ0AWfmpVv0rW3U/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Beatboxer :)**
+- Fun fact **I am a Beatboxer :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
