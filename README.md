@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hriday Sehgal</h1>
-<h3 align="center">A Full Stack and AI developer from India.</h3>
+<h3 align="center">An AI Engineer and Full Stack Web developer from India.</h3>
 
 - I’m currently working on building Generative AI and Full stack web development projects.
 - Check out my blog website at [Decode with Hriday](https://decodewithhriday.vercel.app/)
