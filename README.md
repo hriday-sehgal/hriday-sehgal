@@ -5,11 +5,9 @@
 - Check out my blog website at [Decode with Hriday](https://decodewithhriday.vercel.app/)
 - See my Portfolio Website at [https://hridaysehgal.vercel.app/](https://hridaysehgal.vercel.app/)
 
-- I’m currently learning **React.js and Next.js for Frontend and Node.js for backend**
-
 - Reach me at **hriday.career@gmail.com**
 
-- See my Resume at [Resume](https://drive.google.com/file/d/1V1XK73z5H3wGK0N9UgM4yDXVgojQfV-5/view?usp=drive_link)
+- See my Resume at [Resume](https://drive.google.com/file/d/1V1XK73z5H3wGK0N9UgM4yDXVgojQfV-5/view?usp=sharing)
 
 - Fun fact **I am a Beatboxer :)**
 
