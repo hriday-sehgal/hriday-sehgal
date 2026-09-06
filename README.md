@@ -1,10 +1,10 @@
 # Hi, I'm Hriday Sehgal
 
-### AI Engineer · Generative AI · RAG · Full-Stack Engineering
+### AI Engineer · Generative AI · Full Stack Engineering
 
-I build **production-grade AI systems and scalable full-stack applications** at the intersection of **Generative AI, backend engineering, and modern web development**.
+I build **production grade AI systems and scalable full stack applications** at the intersection of **Generative AI, backend engineering, and modern web development**.
 
-I specialize in building **LLM applications, Hybrid RAG pipelines, multi-agent systems, AI chatbots, APIs, and full-stack platforms** — from architecture and data pipelines to deployment and production optimization.
+I specialize in building **LLM applications, RAG pipelines, multi agent systems, AI chatbots, APIs, and full stack platforms** — from architecture and pipelines to deployment and production optimization.
 
 ---
 
@@ -13,8 +13,7 @@ I specialize in building **LLM applications, Hybrid RAG pipelines, multi-agent s
 * **1000+** patient bookings automated through AI chatbots
 * **60%** reduction in LLM hallucinations using Hybrid RAG
 * **1000+** qualified leads generated through AI-powered healthcare solutions
-* **300+** qualified leads generated through a prostate cancer risk-assessment bot
-* **8+** healthcare clients supported through production AI systems
+* **10+** healthcare clients supported through production AI systems
 * **Runner-Up** in a HealthTech AI innovation award
 
 > I enjoy taking AI systems from **idea → architecture → implementation → deployment → production**.
@@ -29,7 +28,7 @@ LLM-powered applications, RAG pipelines, multi-agent workflows, AI chatbots, pro
 
 **Full-Stack Applications**
 
-Production-ready web applications using Next.js, React, Node.js, FastAPI, PostgreSQL, and modern cloud infrastructure.
+Production ready web applications using Next.js, React, Node.js, FastAPI, PostgreSQL, and modern cloud infrastructure.
 
 **AI & Backend Infrastructure**
 
